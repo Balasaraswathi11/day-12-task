@@ -4,3 +4,5 @@
 For your reference visit this URL https://github.com/rvsp/HTML-CSS/tree/master/Tasks
 
 `html-css-mini-project.md`
+
+Netlify URL: https://responsive-image-task1.netlify.app
